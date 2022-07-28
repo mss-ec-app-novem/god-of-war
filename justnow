@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "Creating the file after soo many days"
+
+sudo yum install wget unzip -y
+
+sudo yum intsall java -y
+
+echo " intalation compleated"
